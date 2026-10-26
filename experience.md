@@ -51,6 +51,6 @@ permalink: /experience/
 
 ## Publications
 
-* Adli Muharam, C. and Pangastuti, R.K. (2023) "Optimization of DSF remaining opportunities by integrated analysis of dynamic well data and reservoir data", Indonesian Petroleum Association, 47th Annual Convention \& Exhibition, Jakarta.
-* Nainggolan, S.A.S., Wilantara, D., Mutiaranti, R. and Pangastuti, R.K. (2023) "Artificial Intelligence and data analysis approach to deliver 5800 BOPD from cyclic steam stimulation job in Krakatau Field", Indonesian Petroleum Association, 47th Annual Convention \& Exhibition, Jakarta.
+* Adli Muharam, C. and Pangastuti, R.K. (2023) "Optimization of DSF remaining opportunities by integrated analysis of dynamic well data and reservoir data", Indonesian Petroleum Association, 47th Annual Convention & Exhibition, Jakarta.
+* Nainggolan, S.A.S., Wilantara, D., Mutiaranti, R. and Pangastuti, R.K. (2023) "Artificial Intelligence and data analysis approach to deliver 5800 BOPD from cyclic steam stimulation job in Krakatau Field", Indonesian Petroleum Association, 47th Annual Convention & Exhibition, Jakarta.
 
