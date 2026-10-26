@@ -1,5 +1,3 @@
-\---
-
 [Home](/) · [Projects](/projects/) · [Experience](/experience/) · [Contact](/#contact)
 
 # Resiayu Kinasih Pangastuti
