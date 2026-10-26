@@ -4,12 +4,11 @@ title: Experience
 permalink: /experience/
 ---
 
-[Home](/) · [Projects](/projects.md/) · [Experience](/experience.md/) · [Contact](/#contact)
+[Home](/) · [Projects](/projects/) · [Experience](/experience/) · [Contact](/#contact)
 
 # Experience
 
-<!-- After you add your CV file to assets/, uncomment this line:
-\[Download my CV (PDF)](/assets/Resiayu\_Kinasih\_Pangastuti\_CV\_DataAnalyst.pdf)
+Download my CV (PDF)](/assets/Resiayu\_Kinasih\_Pangastuti\_CV\_DataAnalyst.pdf)
 
 ## PT Pertamina EP Cepu Zona 11, Head Office
 
