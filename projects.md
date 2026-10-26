@@ -38,6 +38,3 @@ permalink: /projects/
 * Class weighting raised COVID recall from 0.52 to 0.95 and COLD recall from 0.64 to 1.00, while accuracy stayed at 0.93. Balanced accuracy rose from 0.77 to 0.96.
 * Six models made identical predictions at the dataset's accuracy ceiling of about 93%, so I chose Logistic Regression as the simplest, fastest and most interpretable option.
 * Test results: accuracy 0.932, balanced accuracy 0.956, macro F1 0.812. Precision for COLD and COVID is about 0.5, which means many false alarms for those two classes.
-
-\---
-
