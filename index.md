@@ -4,7 +4,7 @@
 
 # Resiayu Kinasih Pangastuti
 
-**Data Analyst | Business Intelligence | Oil \& Gas Analytics**
+**Data Analyst** | **Business Intelligence** | **Oil & Gas Analytics**
 
 I turn production and operational data into dashboards and decisions. I have 7+ years in upstream oil \& gas and work with Power BI, SQL and Python to automate monitoring, analyze well and reservoir performance, and prioritize optimization work.
 
