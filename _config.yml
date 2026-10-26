@@ -1,0 +1,28 @@
+# Site settings (the Minimal theme reads title, description and logo)
+title: Resiayu Kinasih Pangastuti
+description: Data Analyst | Business Intelligence | Oil & Gas Analytics. Power BI, SQL and Python.
+theme: jekyll-theme-minimal
+lang: en
+
+url: "https://resiayukp.github.io"
+baseurl: ""
+
+# Hide the "Download .zip / .tar.gz" buttons in the sidebar
+show_downloads: false
+
+# Optional profile picture in the sidebar. Put the file in assets/img/ and uncomment.
+# logo: /assets/img/profile.jpg
+
+# Every page uses the theme layout, so pages only need a title
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default
+
+# Files that should not be published as pages
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - vendor
