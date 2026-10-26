@@ -22,9 +22,8 @@ permalink: /projects/
 
 **How.** Star-schema data model, DAX measures for KPIs and time intelligence, and data cleaning and validation in Power Query.
 
-!\[Executive Summary page](/assets/img/volve-executive-summary.PNG)
+![Executive Summary](/assets/img/volve-executive-summary.PNG)
 
-\---
 
 ## Symptom-Based Illness Classification
 
