@@ -4,7 +4,7 @@ title: Experience
 permalink: /experience/
 ---
 
-[Home](/) · [Projects](/projects/) · [Experience](/experience/) · [Contact](/#contact)
+[Home](/) · [Projects](/projects.md/) · [Experience](/experience.md/) · [Contact](/#contact)
 
 # Experience
 
