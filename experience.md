@@ -7,7 +7,7 @@ permalink: /experience/
 
 # Experience
 
-Download my CV (PDF)(/assets/Resiayu\_Kinasih\_Pangastuti\_CV\_DataAnalyst.pdf)
+[Download my CV (PDF)](/assets/Resiayu\_Kinasih\_Pangastuti\_CV\_DataAnalyst.pdf)
 
 ## PT Pertamina EP Cepu Zona 11, Head Office
 
