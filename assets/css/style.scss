@@ -1,0 +1,13 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+/* Small tweaks on top of the Minimal theme. Add your own CSS below this line. */
+a { color: #1f5fa8; }
+a:hover { color: #174a82; }
+
+section h2 { margin-top: 28px; }
+
+section table { border-collapse: collapse; width: 100%; }
+section th, section td { padding: 6px 8px; border: 1px solid #e5e5e5; }
