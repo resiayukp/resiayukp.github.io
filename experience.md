@@ -1,5 +1,4 @@
 \---
-
 title: Experience
 permalink: /experience/
 ---
