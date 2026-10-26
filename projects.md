@@ -4,7 +4,7 @@ title: Projects
 permalink: /projects/
 ---
 
-[Home](/) · [Projects](/projects.md/) · [Experience](/experience.md/) · [Contact](/#contact)
+[Home](/) · [Projects](/projects/) · [Experience](/experience/) · [Contact](/#contact)
 
 # Projects
 
