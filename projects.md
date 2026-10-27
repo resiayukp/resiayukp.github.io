@@ -1,7 +1,7 @@
----
+<!--
 title: Projects
 permalink: /projects/
----
+-->
 
 [Home](/) · [Projects](/projects/) · [Experience](/experience/) · [Contact](/#contact)
 
