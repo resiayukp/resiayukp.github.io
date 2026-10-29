@@ -8,7 +8,9 @@ permalink: /experience/
 
 # Experience
 
-[Download my CV (PDF)](/assets/Resiayu_Kinasih_Pangastuti_CV_DataAnalyst.pdf)
+<a href="/assets/Resiayu%5FKinasih%5FPangastuti%5FCV%5FDataAnalyst.pdf" download>
+  Download my CV (PDF)
+</a>
 
 ## PT Pertamina EP Cepu Zona 11, Head Office
 
