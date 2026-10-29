@@ -1,7 +1,8 @@
-<!--
+---
+layout: default
 title: Experience
 permalink: /experience/
--->
+---
 
 [Home](/) · [Projects](/projects/) · [Experience](/experience/) · [Contact](/#contact)
 
